@@ -1,0 +1,16 @@
+title: Romain Bailleul
+description: >-
+  Notes from an AI trainer and consultant on making a site readable by AI
+  assistants, framing AI agents, and training teams.
+theme: minima
+lang: en
+author: Romain Bailleul
+url: "https://romainbailleul.github.io"
+baseurl: ""
+header_pages:
+  - about.md
+github_username: RomainBailleul
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
